@@ -23,7 +23,7 @@ This extension contributes the following settings:
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+A lot of functionality is yet to be implemented! If you desperately need some helpful feature, or need a bug to be eradicate, please file an issue at [gitgub](https://github.com/m1rr0r/dynamo-wfl/issues).
 
 ## Release Notes
 
