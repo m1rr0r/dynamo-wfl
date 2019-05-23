@@ -14,6 +14,9 @@ Check for valid operation types and operation names:
 
 ![Validate operation types](images/feature-operation-01.gif)
 
+Hover over operations show documentaion:
+
+![Documentation on hover](images/feature-hoverdoc-01.gif)
 
 ## Extension Settings
 
@@ -27,6 +30,8 @@ A lot of functionality is yet to be implemented! If you desperately need some he
 
 ## Release Notes
 
-### 0.0.1
-
-Initial release
+## 0.0.7
+### Added
+- Color theme support
+- Hover documentation for some operations
+- Improve intellisense context
