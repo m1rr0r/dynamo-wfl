@@ -1,6 +1,6 @@
 # Dynamo Workflow Logic Language
 
-This extenstion supports [Dinamo Software](https://www.dynamosoftware.com/) domain specific language - Workflow Language.
+This extenstion supports [Dynamo Software's](https://www.dynamosoftware.com/) domain specific language - Workflow Logic Language.
 
 Supports files with extension "DWFL".
 
@@ -18,6 +18,10 @@ Hover over operations show documentaion:
 
 ![Documentation on hover](images/feature-hoverdoc-01.gif)
 
+Code snippets:
+
+![Snippets](images/feature-snippets-01.gif)
+
 ## Extension Settings
 
 This extension contributes the following settings:
@@ -29,6 +33,10 @@ This extension contributes the following settings:
 A lot of functionality is yet to be implemented! If you desperately need some helpful feature, or need a bug to be eradicate, please file an issue at [gitgub](https://github.com/m1rr0r/dynamo-wfl/issues).
 
 ## Release Notes
+
+## 0.0.8
+### Added
+- Snippets for trigger, create and email operations
 
 ## 0.0.7
 ### Added
